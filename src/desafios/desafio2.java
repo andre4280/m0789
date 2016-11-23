@@ -32,7 +32,7 @@ public class desafio2 {
 			
 			System.out.println("Insira " + num + " numeros.");
 			numdado = in.nextInt();
-			numdado = in.nextInt();
+			numdado2 = in.nextInt();
 			
 			
 			
